@@ -1,0 +1,8 @@
+{
+  "name": "Remix AVARTH",
+  "description": "AI-Powered Cyclone Impact \u0026 Infrastructure Intelligence platform for disaster-management authorities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
